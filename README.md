@@ -18,7 +18,7 @@ The second tool will be a retirement planning tool that will use the Alpaca API 
 
 ### Files
 
-* [Personal Finance Planner starter code](Project_Code/financial-planner.ipynb)
+* [Personal Finance Planner](Project_Code/financial-planner.ipynb)
 
 * [MCForecastTools toolkit](Project_Code/MCForecastTools.py)
 
